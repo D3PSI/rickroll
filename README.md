@@ -17,4 +17,4 @@ create a new character device with the major number you read from the logs:
 
     cd /dev && sudo mknod rickroll c <major> 0
 
-run `cat /dev/rickroll` and be amazed.
+run `cat /dev/rickroll` or open the device any way and be amazed.
